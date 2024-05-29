@@ -1,5 +1,3 @@
 <?php 
-    echo "Hello";
- berisik daniel anjg
- sdsdsd
+    echo "Hello Babi";
 ?>
