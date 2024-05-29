@@ -1,6 +1,6 @@
 <?php 
     echo "Hello";
     echo "cobaaa";
-    berisik daniel anjg
-    sdsdsdsdsd
+ berisik daniel anjg
+ sdsdsd
 ?>
